@@ -334,11 +334,13 @@ tr {
 
 
 @media (max-width: 580px){
+  #contact_1_link{
+    margin-left: 20px;
+  }
   body{
+
   }
-  #contact_link{
-    margin-left: 50px;
-  }
+
 }
 
 
