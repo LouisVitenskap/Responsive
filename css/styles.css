@@ -338,6 +338,14 @@ tr {
   }
 }
 
+@media (max-width: 380px){
+
+  #contact_link{
+    margin-left: 30px;
+  }
+}
+
+
 /* lines for contact page*/
 
 
