@@ -491,11 +491,15 @@ figcaption{
 
 @media only screen and (max-width: 650px) {
 
+  .sub-container{
+    padding-right: 40px;
+  }
+
 
 .row_2{
   display: grid;
   grid-template-columns: 1fr;
-  padding-left: 35%;
+  padding-left: 34%;
 
 }
 
