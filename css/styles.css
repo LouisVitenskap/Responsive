@@ -335,7 +335,6 @@ tr {
 
 @media (max-width: 580px){
   body{
-    background-color: green;
   }
   #contact_link{
     margin-left: 50px;
@@ -372,6 +371,11 @@ p{
 }
 
 /* Staff Page */
+
+
+
+
+
 
 .column {
   float: left;
@@ -472,10 +476,12 @@ figcaption{
 
 
 @media only screen and (max-width: 650px) {
+
+
 .row_2{
   display: grid;
   grid-template-columns: 1fr;
-  padding-left: 34%;
+  padding-left: 50%;
 
 }
 
@@ -483,6 +489,7 @@ figcaption{
 
 .row_3{
   margin-top: 40px;
+  padding-left: 35%;
 }
 
 .column{
@@ -497,18 +504,21 @@ figcaption{
 
 #member_1{
   font-size: 20px;
-  padding-left: 46px;
+
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: bolder;
-  t
+  width: 400px;
+
 }
 
 #work_title_1{
-  padding-left: 50px;
+
+  width: 400px;
 }
 
 #member_2{
-padding-left: 50px;
+
+width: 400px;
 }
 
 #member_4{
@@ -516,7 +526,8 @@ padding-left: 50px;
 }
 
 #work_title_2{
-  padding-left: 50px;
+  padding-left: 23px;
+  width: 400px;
 }
 
 #member_3{
