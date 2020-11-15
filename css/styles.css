@@ -101,7 +101,7 @@ body::before {
 /*Main content*/
 .row {
     margin-left: -15px;
-    margin-right: -15px;
+    /*margin-right: -15px;*/
     margin-top: 60px;
 }
 
@@ -495,7 +495,7 @@ figcaption{
 .row_2{
   display: grid;
   grid-template-columns: 1fr;
-  padding-left: 60%;
+  padding-left: 35%;
 
 }
 
@@ -521,37 +521,37 @@ figcaption{
 
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: bolder;
-  width: 400px;
+  width: 200px;
 
 }
 
 #work_title_1{
 
-  width: 400px;
+  width: 200px;
 }
 
 #member_2{
 
-width: 400px;
+width: 200px;
 }
 
 #member_4{
-  width: 400px;
+  width: 200px;
   padding-left: 30px;
 }
 
 #work_title_2{
   padding-left: 23px;
-  width: 400px;
+  width: 200px;
 }
 
 #member_3{
 
-  width: 400px;
+  width: 200px;
 }
 #work_title_3{
 padding-left: 34px;
-width: 400px;
+width: 200px;
 }
 
 .header_contact{
