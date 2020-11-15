@@ -332,18 +332,18 @@ tr {
     }
 }
 
+
 @media (max-width: 580px){
+  body{
+    background-color: red;
+  }
   #contact_link{
-    margin-left: 20px;
+    margin-left: 40px;
   }
 }
 
-@media (max-width: 380px){
 
-  #contact_link{
-    margin-left: 30px;
-  }
-}
+
 
 
 /* lines for contact page*/
