@@ -489,7 +489,7 @@ figcaption{
 
 .row_3{
   margin-top: 40px;
-  padding-left: 35%;
+
 }
 
 .column{
@@ -531,10 +531,12 @@ width: 400px;
 }
 
 #member_3{
-  padding-left: 55px;
+
+  width: 400px;
 }
 #work_title_3{
-padding-left: 40px;
+padding-left: 35px;
+width: 400px;
 }
 
 .header_contact{
