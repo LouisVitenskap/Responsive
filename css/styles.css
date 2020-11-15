@@ -312,6 +312,8 @@ tr {
         margin: 50px;
     }
 
+
+
     .menu {
         width: 50%;
         margin: 0 auto;
@@ -328,6 +330,12 @@ tr {
         padding-left: 5px;
         text-align: center;
     }
+}
+
+@media (max-width: 580px){
+  #contact_link{
+    margin-left: 20px;
+  }
 }
 
 /* lines for contact page*/
