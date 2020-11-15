@@ -481,7 +481,7 @@ figcaption{
 .row_2{
   display: grid;
   grid-template-columns: 1fr;
-  padding-left: 50%;
+  padding-left: 60%;
 
 }
 
@@ -522,7 +522,8 @@ width: 400px;
 }
 
 #member_4{
-  padding-left: 50px;
+  width: 400px;
+  padding-left: 30px;
 }
 
 #work_title_2{
