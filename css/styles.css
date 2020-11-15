@@ -273,14 +273,17 @@ tr {
 }
 
 .buttonContainer {
-    width: 10%;
+    text-align: center;
     margin: 0 auto;
     margin-bottom: 100px;
+    padding-bottom: 20px;
 }
 /*END OF SCHEDULE*/
 
 /*MEDIA*/
 @media (min-width: 881px) {
+
+
 	.col-lg-4{
 		float: left;
 		width: 31.2%;
@@ -292,6 +295,14 @@ tr {
 }
 
 @media (max-width: 880px) {
+
+  .buttonContainer {
+      text-align: center;
+      margin: 0 auto;
+      margin-bottom: 100px;
+  }
+
+
 	.col-sm-12{
 		float: left;
 		width: 98%;
@@ -340,6 +351,7 @@ tr {
   body{
 
   }
+
 
 }
 
