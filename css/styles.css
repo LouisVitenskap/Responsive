@@ -355,6 +355,12 @@ tr {
 
 }
 
+@media only screen and (max-width: 400px) {
+  #contact_1_link{
+    margin-left: 30px;
+  }
+}
+
 
 
 
