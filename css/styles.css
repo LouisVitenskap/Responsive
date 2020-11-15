@@ -335,10 +335,10 @@ tr {
 
 @media (max-width: 580px){
   body{
-    background-color: red;
+    background-color: green;
   }
   #contact_link{
-    margin-left: 40px;
+    margin-left: 50px;
   }
 }
 
